@@ -33,8 +33,8 @@ python run.py
 
 ## Functions
 
--create,view,edit and delete Todos
--Create Todo List
+- create,view,edit and delete Todos
+- Create Todo List
 ## Technical Domain
 
 - Create using Python

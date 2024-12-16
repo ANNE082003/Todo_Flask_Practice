@@ -7,17 +7,7 @@
 
 ## Installation
 
-Create Virtual Environment
 
-```
-python -m venv venv
-```
-
-Activate Virtual Environment
-
-```
-venv\Scripts\activate.bat
-```
 
 Install dependencies
 
